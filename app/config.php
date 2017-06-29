@@ -4,6 +4,18 @@ $configs = new HXPHP\System\Configs\Config;
 
 $configs->env->add('development');
 
+$configs->env->development->baseURI = '/sistema-blacknota/';
+
+$configs->env->development->database->setConnectionData([
+  'host'=>'localhost',
+  'user'=>'root',
+  'password'=>'yantra',
+  'dbname'=>'blcknt_app'
+
+]);
+
+return $configs;
+
 /*
   //Globais
   $configs->title = 'Titulo customizado';
