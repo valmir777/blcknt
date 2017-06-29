@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HXPHP Framework
 
 O HXPHP é um mini-framework PHP.
@@ -19,3 +20,7 @@ Lembre-se também que antes de estudar um framework é mais do que recomendado, 
 #### Link para documentação:
 ---------------------------------------------------------------------
 [https://github.com/brunosantoshx/hxphp-docs](https://github.com/brunosantoshx/hxphp-docs).
+=======
+# blcknt
+blckntapp
+>>>>>>> 09781087ff1daaef34043c4d7a97b474ece8e13b
